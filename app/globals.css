@@ -88,6 +88,10 @@ img {
   object-fit: cover;
 }
 
+.hero-main .photo img {
+  object-position: center 68%;
+}
+
 .mark {
   display: flex;
   align-items: flex-end;

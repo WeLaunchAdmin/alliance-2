@@ -33,8 +33,8 @@ export function Hero() {
               <strong>24/7, manned</strong>
             </div>
           </div>
-          <div className="card-photo">
-            <Photo src="/images/home-hero.jpg" alt="Window cleaner on a commercial building" priority sizes="(max-width: 980px) 100vw, 800px" />
+          <div className="card-photo hero-main">
+            <Photo src="/images/hero-silhouette-bright.jpg" alt="Silhouette of a team member mopping a lobby entrance" priority sizes="(max-width: 980px) 100vw, 800px" />
             <div className="scrim" />
             <div className="hero-caption">
               <SkylineMark />
